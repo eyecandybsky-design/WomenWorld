@@ -15,6 +15,7 @@
     "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmffdecsz2q": "2026-10-11T18:47:30.402076+00:00",
     "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmiql4yfv2o": "2026-10-11T18:47:48.321078+00:00",
     "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmm3tnxn522": "2026-10-11T18:48:06.244784+00:00",
+    "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmph4pbj72n": "2026-10-11T19:31:28.750260+00:00",
     "at://did:plc:leea6n2zbnyywdadbav3gzlb/app.bsky.feed.post/3mxmjnea2ek27": "2026-10-11T18:47:56.006225+00:00",
     "at://did:plc:nanl2xtzrvmgdmc7wcernimk/app.bsky.feed.post/3mxmhjc5fwc23": "2026-10-11T18:47:32.965511+00:00",
     "at://did:plc:nzuhvl2yunrvucsooxcrsd6q/app.bsky.feed.post/3mxmjmygxxk2p": "2026-10-11T18:47:53.456927+00:00",
@@ -37,12 +38,17 @@
     "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmffdecsz2q": "2026-10-11T18:47:30.372430+00:00",
     "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmiql4yfv2o": "2026-10-11T18:47:48.292969+00:00",
     "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmm3tnxn522": "2026-10-11T18:48:06.216758+00:00",
+    "at://did:plc:gfyttb6vys3hzp2o2x46uqv3/app.bsky.feed.post/3mxmph4pbj72n": "2026-10-11T19:31:28.679467+00:00",
     "at://did:plc:leea6n2zbnyywdadbav3gzlb/app.bsky.feed.post/3mxmjnea2ek27": "2026-10-11T18:47:55.978563+00:00",
     "at://did:plc:nanl2xtzrvmgdmc7wcernimk/app.bsky.feed.post/3mxmhjc5fwc23": "2026-10-11T18:47:32.932305+00:00",
     "at://did:plc:nzuhvl2yunrvucsooxcrsd6q/app.bsky.feed.post/3mxmjmygxxk2p": "2026-10-11T18:47:53.427703+00:00",
     "at://did:plc:sp54ouue6fp2dlvn2cux54ka/app.bsky.feed.post/3mxmiz5xizk26": "2026-10-11T18:47:50.861094+00:00"
   },
   "own_last_new_uri": null,
-  "promo_random_used": {},
+  "promo_random_used": {
+    "did:plc:sp54ouue6fp2dlvn2cux54ka": {
+      "at://did:plc:sp54ouue6fp2dlvn2cux54ka/app.bsky.feed.post/3mxmiz5xizk26": "2026-10-11T19:31:33.900626+00:00"
+    }
+  },
   "repost_always_reboosted": {}
 }
