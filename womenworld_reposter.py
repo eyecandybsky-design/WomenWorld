@@ -54,7 +54,7 @@ BLACKLIST_LISTS = [
 ]
 
 # Hashtag source for WomenWorld.
-HASHTAGS = ["#eyescandy"]
+HASHTAGS = [""]
 
 
 def now_utc():
